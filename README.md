@@ -2,7 +2,7 @@
 
 # Práctica: Sistema cardiovascular
 
-## Información de la estudiante
+## Información del estudiante
 Ramirez Rodriguez Carlos Azael \[22212267]; L22212267@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
